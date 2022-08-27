@@ -1,7 +1,15 @@
 # Учебные проекты
+
+Во всех проектах использовался Jupiter Notebook
+Код написан на Python 3
+
 ## Исследовательский анализ и проверка гипотез
 
-- [Исследование рынка недвижимости](https://github.com/Lugros/DS-study-projects/tree/main/EDA-realty)
+- Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости
+-- [Ссылка на проект](https://github.com/Lugros/DS-study-projects/tree/main/EDA-realty)
+-- Цель проекта: Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир
+-- Библиотеки: pandas,seaborn, numpy
+
 - [Исследование клиентов телекома](https://github.com/Lugros/DS-study-projects/tree/main/EDA-telecom)
 - [Исследование рынка игр](https://github.com/Lugros/DS-study-projects/tree/main/EDA-games)
 
