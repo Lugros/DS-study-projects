@@ -21,9 +21,32 @@
    - Цель проекта: Требуется выявить определяющие успешность игры закономерности,что позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании в интернет-магазине 
    - Библиотеки: pandas, seaborn, numpy, matplotlib, scipy
 ## Машинное обучение
-- [Классификация клиентов телеком компании](https://github.com/Lugros/DS-study-projects/tree/main/ML-telecom)
-- [Прогнозирование оттока клиентов банка](https://github.com/Lugros/DS-study-projects/tree/main/ML-finance)
-- [Определение наиболее выгодного региона нефтедобычи](https://github.com/Lugros/DS-study-projects/tree/main/ML-find-oil)
-- [Исследование технологического процесса очистки золота](https://github.com/Lugros/DS-study-projects/tree/main/ML-gold-recovery)
-- [Построение модели определения стоимости автомобиля](https://github.com/Lugros/DS-study-projects/tree/main/ML-auto)
-- [Прогнозирование количества заказов такси на следующий час](https://github.com/Lugros/DS-study-projects/tree/main/ML-taxi)
+- ### Классификаиция клиентов телеком компании
+  - [Ссылка на проект](https://github.com/Lugros/DS-study-projects/tree/main/ML-telecom)
+  - Цель проекта: На основе данных предложить клиенту тариф
+  - Библиотеки: pandas, sklearn
+  
+- ### Прогнозирование оттока клиента Банка
+  - [Ссылка на проект](https://github.com/Lugros/DS-study-projects/tree/main/ML-finance)
+  - Цель проекта: На основе данных из банка определить уйдет ли клиент
+  - Библиотеки: pandas, sklearn, matplotlib, re
+
+- ### Определение наиболее выгодного региона нефтедобычи
+  - [Ссылка на проект](https://github.com/Lugros/DS-study-projects/tree/main/ML-find-oil)
+  - Цель проекта: На основе данных геологической разведки выбрать район для добычи нефти, который принесет наибольшую прибыль
+  - Библиотеки: pandas, sklearn, matplotlib
+  
+- ### Исследование технологического процесса очистки золота
+  - [Ссылка на проект](https://github.com/Lugros/DS-study-projects/tree/main/ML-gold-recovery)
+  - Цель проекта: Спрогнозировать концентрацию золота при проведении процесса очистки золота
+  - Библиотеки: pandas, numpy, sklearn, scipy
+  
+- ###  Построение модели определения стоимости автомобиля
+  - [Ссылка на проект](https://github.com/Lugros/DS-study-projects/tree/main/ML-auto)
+  - Цель проекта: Разработка системы рекомендации стоимости автомобиля на основе его описания
+  - Библиотеки: pandas, re, seaborn, numpy, matplotlib, lightgbm, catboost
+  
+- ### Прогнозирование количества заказов такси на следующий час
+  - [Ссылка на проект](https://github.com/Lugros/DS-study-projects/tree/main/ML-taxi)
+  - Цель проекта: Построить модель - чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час.
+  - Библиотеки: pandas, sklearn, statsmodels, lightgbm
